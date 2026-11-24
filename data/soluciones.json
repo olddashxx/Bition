@@ -1,0 +1,163 @@
+{
+  "empresa": {
+    "nombre": "Bition S.R.L.",
+    "eslogan": "Sistemas Informáticos • Propiedad Intelectual en Bolivia",
+    "fundacion": "26 de abril de 2017",
+    "pais": "Bolivia",
+    "whatsapp": "59177766637"
+  },
+  "soluciones": [
+    {
+      "id": 1,
+      "codigo": "BT-DAT",
+      "nombre": "Datamark — Licencia Mensual (Gaceta Oficial)",
+      "categoria": "datamark",
+      "categoriaLabel": "Datamark",
+      "presentacion": "Suscripción Mensual • Hasta 3 usuarios • Gaceta Oficial",
+      "precio": 1200,
+      "unidad": "BOB / mes",
+      "etiqueta": "Base Gaceta Oficial",
+      "descripcion": "Acceso multiusuario (hasta 3 abogados o agentes) con migración mensual de la Gaceta Oficial de Bolivia y búsquedas ilimitadas de anterioridades antes de acudir al SENAPI.",
+      "caracteristicas": [
+        "Acceso para hasta 3 abogados o agentes de propiedad intelectual",
+        "Migración y clasificación mensual por número de publicación oficial",
+        "Búsquedas ilimitadas de anterioridades antes de pagar tasas al SENAPI",
+        "Filtros avanzados por denominación, clase Niza, titular y gaceta"
+      ],
+      "palabrasClave": "datamark gaceta oficial bolivia anterioridades senapi licencia mensual multiusuario"
+    },
+    {
+      "id": 2,
+      "codigo": "BT-IAV",
+      "nombre": "Módulo Datamark + IA — Reconocimiento Figurativo",
+      "categoria": "ia-figurativa",
+      "categoriaLabel": "Datamark + IA Visual",
+      "presentacion": "Módulo de Inteligencia Artificial Visual",
+      "precio": 700,
+      "unidad": "BOB / mes",
+      "etiqueta": "IA Visual • Logotipos",
+      "descripcion": "Motor con Inteligencia Artificial que analiza formas, trazos geométricos y composiciones visuales de logotipos, isotipos y marcas mixtas frente al repositorio gráfico de Bolivia.",
+      "caracteristicas": [
+        "Análisis visual de logotipos, isotipos y marcas mixtas",
+        "Detección temprana de similitudes gráficas antes del trámite formal",
+        "Comparación directa contra marcas publicadas en la Gaceta Oficial",
+        "Reduce riesgos de observación o rechazo por similitud figurativa"
+      ],
+      "palabrasClave": "ia inteligencia artificial figurativa logotipo isotipo visual marca mixta"
+    },
+    {
+      "id": 3,
+      "codigo": "BT-MIX",
+      "nombre": "Estudio Integral de Anterioridades (IA Mixta + Visual)",
+      "categoria": "datamark",
+      "categoriaLabel": "Datamark",
+      "presentacion": "Informe Técnico Único de Viabilidad",
+      "precio": 450,
+      "unidad": "BOB / reporte",
+      "etiqueta": "Fonética • Silábica • Visual",
+      "descripcion": "Informe técnico único combinando búsqueda fonética, silábica, semántica, natural y figurativa sobre toda la base histórica antes de iniciar trámite en el SENAPI.",
+      "caracteristicas": [
+        "Detección fonética y silábica para evitar confusión auditiva",
+        "Búsqueda semántica, natural y comparación figurativa de logotipo",
+        "Informe técnico estructurado listo para presentar al cliente o titular",
+        "Ideal para estudios puntuales sin suscripción mensual"
+      ],
+      "palabrasClave": "estudio integral anterioridades busqueda mixta fonetica silabica semantica visual reporte"
+    },
+    {
+      "id": 4,
+      "codigo": "BT-IPM",
+      "nombre": "IPMatic — ERP de Propiedad Intelectual (SENAPI)",
+      "categoria": "ipmatic",
+      "categoriaLabel": "IPMatic",
+      "presentacion": "Plataforma ERP Mensual • Ciclo Completo SENAPI",
+      "precio": 1750,
+      "unidad": "BOB / mes",
+      "etiqueta": "ERP Propiedad Intelectual",
+      "descripcion": "Gestión integral del ciclo de vida de marcas ante el SENAPI: formularios, publicación en Gaceta, registro, oposiciones (demandante/demandado) y denegatorias.",
+      "caracteristicas": [
+        "Control del ciclo completo hasta la obtención del título de registro",
+        "Módulos para actuar como demandante o demandado en oposiciones",
+        "Seguimiento de denegatorias, recursos y cambios de estado procesal",
+        "Panel centralizado para apoderados legales, titulares y solicitantes"
+      ],
+      "palabrasClave": "ipmatic erp senapi oposiciones demandante demandado denegatorias registro"
+    },
+    {
+      "id": 5,
+      "codigo": "BT-PLZ",
+      "nombre": "Módulo de Alertas Procesales y Plazos SENAPI",
+      "categoria": "ipmatic",
+      "categoriaLabel": "IPMatic",
+      "presentacion": "Módulo Complementario de Control Procesal",
+      "precio": 490,
+      "unidad": "BOB / mes",
+      "etiqueta": "Cero Vencimientos",
+      "descripcion": "Monitoreo automatizado de términos procesales, vencimientos, presentación de pruebas a oposiciones, contestaciones y descargos ante el SENAPI.",
+      "caracteristicas": [
+        "Alertas preventivas automatizadas para plazos de oposición y contestación",
+        "Trazabilidad de cada cambio de estado procesal",
+        "Recordatorios críticos para presentación de pruebas y descargos",
+        "Prevención de caducidades o pérdida de términos legales"
+      ],
+      "palabrasClave": "alertas procesales plazos oposiciones senapi vencimientos pruebas descargos"
+    },
+    {
+      "id": 6,
+      "codigo": "BT-OCR",
+      "nombre": "Módulo Archivo Digital OCR de Expedientes",
+      "categoria": "ipmatic",
+      "categoriaLabel": "IPMatic",
+      "presentacion": "Módulo Complementario de Digitalización",
+      "precio": 420,
+      "unidad": "BOB / mes",
+      "etiqueta": "Expedientes Escaneados",
+      "descripcion": "Digitalización, indexación OCR y respaldo estructurado de expedientes escaneados vinculados directamente por caso y titular.",
+      "caracteristicas": [
+        "Carga y respaldo seguro de expedientes escaneados por caso",
+        "Indexación automática OCR por titular, número de solicitud y clase",
+        "Acceso inmediato para todo el equipo legal desde la nube",
+        "Elimina búsqueda física en archivos de papel"
+      ],
+      "palabrasClave": "ocr archivo digital expedientes escaneados respaldo documentos"
+    },
+    {
+      "id": 7,
+      "codigo": "BT-ECO",
+      "nombre": "Suite Corporativa Completa (Datamark + IA + IPMatic)",
+      "categoria": "empresarial",
+      "categoriaLabel": "Suite Empresarial",
+      "presentacion": "Suscripción Mensual Integral • Hasta 5 usuarios",
+      "precio": 2800,
+      "unidad": "BOB / mes",
+      "etiqueta": "Más Solicitado • Suite",
+      "descripcion": "Ecosistema integral para estudios jurídicos y departamentos legales (hasta 5 usuarios), con soporte prioritario y migración mensual de Gaceta incluida.",
+      "caracteristicas": [
+        "Incluye Datamark Gaceta Oficial + Búsqueda Mixta y Figurativa IA",
+        "Incluye ERP IPMatic, alertas procesales y archivo digital OCR",
+        "Hasta 5 usuarios simultáneos con soporte técnico prioritario",
+        "Cobertura completa del ciclo de vida de la marca en Bolivia"
+      ],
+      "palabrasClave": "suite corporativa completa datamark ia ipmatic empresarial estudio juridico 5 usuarios"
+    },
+    {
+      "id": 8,
+      "codigo": "BT-ANU",
+      "nombre": "Licencia Anual Estudio Jurídico (Todo Incluido)",
+      "categoria": "empresarial",
+      "categoriaLabel": "Suite Empresarial",
+      "presentacion": "Licencia Anual Corporativa • 12 Meses",
+      "precio": 28000,
+      "unidad": "BOB / año",
+      "etiqueta": "2 Meses Bonificados",
+      "descripcion": "Cobertura anual completa del ecosistema Bition con 2 meses bonificados, implementación asistida, migración de cartera y capacitación al equipo legal.",
+      "caracteristicas": [
+        "12 meses de acceso total con 2 meses bonificados sobre tarifa mensual",
+        "Implementación asistida y capacitación personalizada al equipo legal",
+        "Migración mensual continua de la Gaceta Oficial de Bolivia",
+        "Soporte técnico prioritario y acompañamiento continuo"
+      ],
+      "palabrasClave": "licencia anual estudio juridico todo incluido corporativo 12 meses implementacion"
+    }
+  ]
+}
